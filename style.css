@@ -1,0 +1,16 @@
+body {
+    padding: 10px;   
+    margin: 40px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(https://i0.wp.com/en15dias.com/wp-content/uploads/2022/08/galaxy-night-landscape.jpg?fit=3200%2C2000&ssl=1);
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: white;
+   }
+   nav {
+       background-color: white;
+       padding: 0px;
+       color:rgb(51, 9, 175) ;
+   
+   }
